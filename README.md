@@ -64,19 +64,25 @@
 
 ### DB 설계
 
-![Database](3/readmeimg/Database.jpg)
+![1](https://user-images.githubusercontent.com/100548008/175924334-9aeb1065-3b45-4919-a665-f4855d70bc8d.jpg)
 
 ***
 
 ### 컨트롤 구조도
 
-![Control](3/readmeimg/Control.jpg)
+![2](https://user-images.githubusercontent.com/100548008/175924615-ade4ee1e-b4bb-4b40-9ebf-aa108a785333.jpg)
 
 ***
 
 ### VIEW[FXML] 프로토타입
 
-![1](https://user-images.githubusercontent.com/100548008/175924334-9aeb1065-3b45-4919-a665-f4855d70bc8d.jpg)
+![3](https://user-images.githubusercontent.com/100548008/175924658-378f6aca-af1c-45e5-b165-dfda5f3a7756.png)
+![4](https://user-images.githubusercontent.com/100548008/175924659-51f7d824-d7d5-4ad7-b48e-8daada7e1b2f.png)
+![5](https://user-images.githubusercontent.com/100548008/175924650-45472fd4-d82e-4d11-b42c-48cc86d76370.png)
+![6](https://user-images.githubusercontent.com/100548008/175924653-dbad1aa5-7e4a-4901-b742-44c21432fa52.png)
+![7](https://user-images.githubusercontent.com/100548008/175924657-db7714db-29e3-44b6-b6a2-0433197a3f80.png)
+
+
 
 ***
 
