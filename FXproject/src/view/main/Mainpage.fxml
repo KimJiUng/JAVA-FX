@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="820.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.main.Mainpage">
+   <children>
+      <ImageView fitHeight="821.0" fitWidth="1280.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../img/main.jpg" />
+         </image>
+      </ImageView>
+      <Label fx:id="mypage" layoutX="95.0" layoutY="52.0" prefHeight="36.0" prefWidth="127.0" text="MENU" textFill="#f5f5f5">
+         <font>
+            <Font size="30.0" />
+         </font>
+      </Label>
+      <Line endX="-80.0" endY="723.0" layoutX="357.0" layoutY="97.0" startX="-80.0" startY="-97.0" stroke="WHITE" strokeWidth="3.0" />
+      <Label fx:id="lblmim" layoutX="71.0" layoutY="308.0" onMouseClicked="#mim" text="회원정보 조회" textFill="#f5f5f5">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+      <Label fx:id="lblmupdate" layoutX="60.0" layoutY="385.0" onMouseClicked="#mupdate" text="내 정보 수정하기" textFill="#f5f5f5">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+      <Label fx:id="lblmat" layoutX="68.0" layoutY="452.0" onMouseClicked="#mat" text="내 항공권 조회" textFill="#f5f5f5">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+      <Label fx:id="lblsearch" layoutX="81.0" layoutY="527.0" onMouseClicked="#search" text="항공권 검색" textFill="#f5f5f5">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+      <Label fx:id="lblboard" layoutX="81.0" layoutY="604.0" onMouseClicked="#board" text="후기 게시판" textFill="#f5f5f5">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+      <Label fx:id="lblexchange" layoutX="114.0" layoutY="672.0" onMouseClicked="#exchange" text="환율" textFill="#f5f5f5">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+      <Label fx:id="lbllogout" layoutX="183.0" layoutY="213.0" onMouseClicked="#logout" prefHeight="25.0" prefWidth="71.0" text="LOGOUT" textFill="#f5f5f5">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Label>
+      <BorderPane fx:id="boderpane" layoutX="294.0" layoutY="14.0" prefHeight="820.0" prefWidth="1000.0" />
+      <Label fx:id="lblmname" layoutX="55.0" layoutY="110.0" prefHeight="25.0" prefWidth="169.0" text="이름" textAlignment="CENTER" textFill="#f5f5f5">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Label>
+      <Line endX="174.0" layoutX="102.0" layoutY="252.0" startX="-100.0" stroke="WHITE" strokeWidth="3.0" />
+      <Label fx:id="lblmpoint" layoutX="55.0" layoutY="148.0" prefHeight="25.0" prefWidth="169.0" text="포인트" textAlignment="CENTER" textFill="#f5f5f5">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Label>
+      <Label fx:id="lblhome" layoutX="35.0" layoutY="213.0" onMouseClicked="#home" prefHeight="25.0" prefWidth="51.0" text="HOME" textFill="#f5f5f5">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
