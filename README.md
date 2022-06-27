@@ -76,9 +76,8 @@
 
 ### VIEW[FXML] 프로토타입
 
-![Login](3/readmeimg/login.png)
-![Signup](3/readmeimg/signup.png)
-![Main](3/readmeimg/main.png)
-![Reservationconfirm](3/readmeimg/Reservationconfirm.png)
-![결제](3/readmeimg/결제.png)
+![1](https://user-images.githubusercontent.com/100548008/175924334-9aeb1065-3b45-4919-a665-f4855d70bc8d.jpg)
+
 ***
+
+### 시연영상
