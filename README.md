@@ -10,7 +10,7 @@
 
 * * *
 ### 개발 일정
-2022.04.12 ~ 2022.04.27
+2022.04.12 ~ 2022.04.26
 | 일차 | 현황 | 내용 |
 | ------ | --------- | ----------------------- |
 | 1일차 | :ballot_box_with_check: | Topic Selection |
@@ -20,33 +20,17 @@
 | 5일차 | :ballot_box_with_check: | 로그인 / 아이디 & 비밀번호 찾기 / 예매 control |
 | 6일차 | :ballot_box_with_check: | 예매 control |
 | 7일차 | :ballot_box_with_check: | 예매 control |
-| 8일차 | :ballot_box_with_check: | 환율 차트 control |
-| 9일차 |  | 관리자 / 회원 개인 페이지 |
-| 10일차|  | 점검 / 보완 | 
+| 8일차 | :ballot_box_with_check: | 게시판 control |
+| 9일차 | :ballot_box_with_check: | 게시판 control |
+| 10일차| :ballot_box_with_check: | 환율 차트 control | 
+| 11일차| :ballot_box_with_check: | 환율 차트 control | 
+| 12일차| :ballot_box_with_check: | 관리자 / 회원 개인 페이지 | 
+| 13일차| :ballot_box_with_check: | 관리자 / 회원 개인 페이지 | 
+| 14일차| :ballot_box_with_check: | 점검 / 보완 | 
+| 15일차| :ballot_box_with_check: | 점검 / 보완 | 
 
 ***
 
-### 역할
-
-- [ ] __김용준 [Github](https://github.com/godoklife/JAVA_study)__
-> DB 생성, 마이페이지 
-
-
-
-- [ ] __정희승 [Github](https://github.com/Heeahn/Ezen_Web_A)__
-> 회원가입, 아이디 & 비밀번호 찾기
-
-
-
-- [ ] __김지웅 [Github](https://github.com/KimJiUng/java2)__
->로그인, 관리자 페이지
-
-
-
-- [ ] __장승빈 [Github](https://github.com/JSB95/Academy)__
->예매, 환율조회 페이지
-
-***
 
 ### 개발 우선순위
 + **1순위**
